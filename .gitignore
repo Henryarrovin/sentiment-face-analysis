@@ -1,1 +1,4 @@
 model/venv
+model/dataset/test
+model/dataset/train
+backend/node_modules
